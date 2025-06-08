@@ -1,2 +1,0 @@
-# biograph
-rajinikanth bio graphy
